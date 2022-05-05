@@ -1,6 +1,7 @@
 # MACHINE LEARNING AND DATA VIZUALIZATION
 ### EDA - exploratory data analysis
-Performs basic EDA on a dataset
+Performs basic EDA on a dataset.
+Dataset used is provided in the repository
 ### NLP - natural language processing
 First part of the project preform basic EDA on the dataset.<br/>
 Then, the model is trained in two different ways. The predictions on whether the news are fake or real are formed based on the model.<br/>
