@@ -2,6 +2,14 @@
 ### EDA - exploratory data analysis
 Performs basic EDA on a dataset.
 Dataset used is provided in the repository
+### Regression
+Several different models used to predict continuous data from the dataset ecommerce.csv<br/>
+Topics covered:<br>
+* Linear Regression<br>
+* Batch Gradient Descent<br>
+* Stochastic Gradient Descent<br>
+* SGDRegressor (sklearn)<br>
+* Regularization techniques<br>
 ### Clustering
 First part of the project performa KMeans clustering on dataset hrdata3
 <br/>Second part perform Agglomerative clustering on the same data<br/>
